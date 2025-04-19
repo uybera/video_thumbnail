@@ -3,7 +3,7 @@
 # Run `pod lib lint get_thumbnail_video.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'get_thumbnail_video'
+  s.name = 'video_thumbnail'
   s.version          = '0.0.1'
   s.summary          = 'A flutter plugin for creating a thumbnail from a local video file or from a video URL.'
   s.description      = <<-DESC
